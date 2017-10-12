@@ -106,6 +106,7 @@ global:
 	ndctl_cmd_smart_get_alarm_flags;
 	ndctl_cmd_smart_get_life_used;
 	ndctl_cmd_smart_get_shutdown_state;
+	ndctl_cmd_smart_get_shutdown_count;
 	ndctl_cmd_smart_get_vendor_size;
 	ndctl_cmd_smart_get_vendor_data;
 	ndctl_dimm_cmd_new_smart_threshold;
